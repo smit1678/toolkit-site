@@ -3,11 +3,3 @@ languageCode = "en-us"
 title = "HOT Toolbox"
 theme = "book"
 DefaultContentLanguage = "en"
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
-  [languages.fr]
-    languageName = "French"
-    weight = 2
