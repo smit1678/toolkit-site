@@ -3,4 +3,3 @@ title = "HOT Toolbox"
 theme = "book"
 DefaultContentLanguage = "en"
 relativeurls = true
-publishDir = "docs"
