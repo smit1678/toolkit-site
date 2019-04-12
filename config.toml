@@ -1,5 +1,6 @@
-baseURL = "https://hotosm.github.io/toolkit-site/"
 languageCode = "en-us"
 title = "HOT Toolbox"
 theme = "book"
 DefaultContentLanguage = "en"
+relativeurls = true
+publishDir = "docs"
